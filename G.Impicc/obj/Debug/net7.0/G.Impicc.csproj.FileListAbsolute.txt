@@ -1,0 +1,14 @@
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\bin\Debug\net7.0\G.Impicc.exe
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\bin\Debug\net7.0\G.Impicc.deps.json
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\bin\Debug\net7.0\G.Impicc.runtimeconfig.json
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\bin\Debug\net7.0\G.Impicc.dll
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\bin\Debug\net7.0\G.Impicc.pdb
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\G.Impicc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\G.Impicc.AssemblyInfoInputs.cache
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\G.Impicc.AssemblyInfo.cs
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\G.Impicc.csproj.CoreCompileInputs.cache
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\G.Impicc.dll
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\refint\G.Impicc.dll
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\G.Impicc.pdb
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\G.Impicc.genruntimeconfig.cache
+C:\Users\ficarra.gabriele\Desktop\G.Impicc\G.Impicc\obj\Debug\net7.0\ref\G.Impicc.dll
